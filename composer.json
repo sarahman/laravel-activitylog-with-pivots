@@ -13,5 +13,15 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sarahman\\Database\\Support\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
     }
 }
