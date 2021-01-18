@@ -8,8 +8,8 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.0",
-        "fico7489/laravel-pivot": "^3.0",
-        "spatie/laravel-activitylog": "^2.0"
+        "fico7489/laravel-pivot": ">=3.0",
+        "spatie/laravel-activitylog": ">=2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.0"
