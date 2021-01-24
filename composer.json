@@ -6,6 +6,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "version": "1.0.2",
     "require": {
         "php": "^7.0",
         "fico7489/laravel-pivot": ">=3.0",
